@@ -3,15 +3,9 @@
   "tasks": [
     {
       "type": "http",
-      "id": "xhacker",
-      "title": "xhacker.im",
-      "address": "http://xhacker.im"
-    },
-    {
-      "type": "http",
-      "id": "not_exist",
-      "title": "not.exist",
-      "address": "http://not.exist"
+      "id": "northcard.co",
+      "title": "NorthCard",
+      "address": "http://northcard.co"
     },
     {
       "type": "shell",
