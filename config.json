@@ -8,10 +8,46 @@
       "address": "http://northcard.co"
     },
     {
+      "type": "http",
+      "id": "fap.la",
+      "title": "Fapla",
+      "address": "http://fap.la"
+    },
+    {
+      "type": "http",
+      "id": "tenderbid.thru.io",
+      "title": "Tenderbid",
+      "address": "http://tenderbid.thru.io"
+    },
+    {
+      "type": "http",
+      "id": "intervent.io",
+      "title": "Intervent.io",
+      "address": "http://intervent.io"
+    },
+    {
+      "type": "http",
+      "id": "bankapi",
+      "title": "BankAPI API",
+      "address": "http://bankapi.thru.io/"
+    },
+    {
       "type": "shell",
-      "id": "vps",
-      "title": "VPS",
-      "command": "ping -c 1 us-east-1.xhacker.im"
+      "id": "redis",
+      "title": "Redis",
+      "command": "ping -c 1 redis"
+    },
+    {
+      "type": "shell",
+      "id": "mysql",
+      "title": "MySQL",
+      "command": "ping -c 1 mysql"
+    },
+    {
+      "type": "http",
+      "id": "phpmyadmin",
+      "title": "PHPMyAdmin",
+      "address": "http://mysql.thru.io"
     }
   ]
 }
